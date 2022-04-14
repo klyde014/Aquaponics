@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aquaponics</string>
+    <string name="fish_feeder_on_off">Fish Feeder On/Off</string>
+    <string name="sensors">Sensors</string>
+</resources>
